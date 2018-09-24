@@ -1,0 +1,21 @@
+h1{
+    margin-bottom: 25px;
+}
+p{
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.col-md-6{
+    text-align: center;
+}
+.col-md-12{
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.crystal-image{
+    height: 125px;
+    width: 125px;
+    display: inline-block;
+}
